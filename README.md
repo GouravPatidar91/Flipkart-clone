@@ -67,7 +67,7 @@ We tried to clone the Flipkart clone website.With all the Concepts we learned in
 - HTML
 - CSS
 - Advanced JS
-- Node js
+- Node js, ExpressJs, Mongodb (backend)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -85,7 +85,11 @@ We tried to clone the Flipkart clone website.With all the Concepts we learned in
 
 ## Usage and Features
 
- This is ecommerce website. The website can be used for shopping. 
+<li>Shop where you are</li>
+<li>Be in the know</li>
+<li>Shop smarter</li>
+<li>Make your Wishlist</li>
+
 
  
 <br/>
