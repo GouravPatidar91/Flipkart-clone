@@ -5,7 +5,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Karishma282/YouTube">
 <!--     <img src="https://github.com/anubis-x-ranger/projectScreenshots/blob/main/netfliximg.jpg" alt="Logo" width="120" height="60"> -->
     <img src="https://assets.entrepreneur.com/content/3x2/2000/20180511063849-flipkart-logo-detail-icon.jpeg"alt="YouTube" width="220" height="140">
    
@@ -107,10 +106,12 @@ Our website as a team project is finally completed. It was started one week back
 
 ## Team Members
 
-1. Hemant Suryawanshi
-2. Salman Khan
-3. Ritu Chauhan
-4. Rushikesh Pardhikar
+1. Gourav Patidar
+2. Hemant Suryawanshi
+3. Salman Khan
+4. Ritu Chauhan
+5. Rushikesh Pardhikar
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
